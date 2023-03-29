@@ -1,0 +1,69 @@
+header h1 {
+  font-size: 48px;
+  color: #0D0D0D;
+}
+header h2 {
+  font-size: 34px;
+  color: #0D0D0D;
+}
+
+.label {
+  font-size: 24px;
+  color: #0D0D0D;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.submit-btn {
+  font-size: 26px;
+  background-color: #0D0D0D !important;
+  border: none !important;
+}
+
+.submit-btn:hover {
+  background-color: #FDDE16 !important;
+  color: #0D0D0D !important;
+  border: none !important;
+}
+
+.quotation {
+  font-size: 34px;
+  color: #0D0D0D;
+  position: relative;
+}
+
+.pseudo-content {
+  opacity: 0;
+}
+
+.content {
+  position: absolute;
+  top: 10px;
+}
+
+.image {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.header, .quotation {
+  padding: 10px;
+  background-color: rgba(246, 237, 224, 0.725);
+  z-index: 1;
+  border-radius: 15px;
+  border: 1px solid rgba(128, 128, 128, 0.323);
+}
+
+.custom-card {
+  position: relative;
+}
+
+.decor {
+  opacity: 0;
+  right: -50px;
+  bottom: 0;
+  position: absolute;
+  height: 100%;
+}
