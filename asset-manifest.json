@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quotes-generator-turtle/static/css/main.be391dff.css",
+    "main.js": "/quotes-generator-turtle/static/js/main.ba4d8275.js",
+    "index.html": "/quotes-generator-turtle/index.html",
+    "main.be391dff.css.map": "/quotes-generator-turtle/static/css/main.be391dff.css.map",
+    "main.ba4d8275.js.map": "/quotes-generator-turtle/static/js/main.ba4d8275.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be391dff.css",
+    "static/js/main.ba4d8275.js"
+  ]
+}
